@@ -11,3 +11,5 @@ The dataset folder contains the following files:
 train.csv: 18659 x 30
 test.csv: 4665 x 29
 sample submission.csv: 5 x 2
+
+Note: After running all the cells the submission.csv data will generate
